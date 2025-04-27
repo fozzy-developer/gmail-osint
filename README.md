@@ -23,6 +23,4 @@ This tool allows you to collect various data from Gmail accounts using their ope
 To run, use the command:
 ```bash
 python gmail-check.py
-
-# gmail-osint
-Searching for Gmail account information through public sources
+```
