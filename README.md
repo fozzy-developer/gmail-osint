@@ -6,7 +6,7 @@ Project for conducting reconnaissance on Gmail accounts .
 
 This tool allows you to collect various data from Gmail accounts using their open APIs. 
 
-## Installation
+## 📥 Installation
 
 1. Clone the repository:
     ```bash
@@ -18,7 +18,7 @@ This tool allows you to collect various data from Gmail accounts using their ope
     pip install -r requirements.txt
     ```
 
-## Usage
+## 📝 Usage
 
 To run, use the command:
 ```bash
