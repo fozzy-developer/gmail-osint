@@ -13,7 +13,12 @@ This tool allows you to collect various data from Gmail accounts using their ope
     git clone https://github.com/fozzy-developer/gmail-osint.git
     ```
 
-2. Install the required dependencies:
+2. Open folder:
+    ```bash
+    cd gmail-osint
+    ```
+
+3. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
